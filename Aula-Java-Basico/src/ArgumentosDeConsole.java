@@ -1,3 +1,10 @@
+/**
+ * @author LukeHSM
+ * @version 1.0.0
+ * @since August 8th, 2024
+ * @apiNote No console, na pasta bin: java ArgumentosDeConsole nome idade cidade/estado altura[em metros]
+*/
+
 public class ArgumentosDeConsole {
     public static void main(String[] args) throws Exception {
         String nome = args[0];
